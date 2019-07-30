@@ -1,4 +1,4 @@
-# Honeywell CL15AE Replacement driver
+# Replacement driver for Honeywell CL15AE
 
 ![Prototype version of the replacement board](https://raw.githubusercontent.com/dilshan/honeywell-cl15ae-controller/master/resources/honeywell-cooler-low-res.jpg)
 
